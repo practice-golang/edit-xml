@@ -1,0 +1,5 @@
+<server>
+  <service>
+    <Connector port="8080" password="password1234" />
+  </service>
+</server>
