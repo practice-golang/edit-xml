@@ -1,5 +1,5 @@
 # Simple xml editing using [etree](https://github.com/beevik/etree)
-Each folders works as below
+Each "main" package folders works as below
 * edit-xml : change something in computer.xml
 * set-filezilla-config : When run [Filzilla](https://filezilla-project.org/), it change [Notepad2](https://github.com/XhmikosR/notepad2-mod) & Last local directory settings in filezilla.xml
   * Filezilla can be used as portable mode with fzdefaults.xml
