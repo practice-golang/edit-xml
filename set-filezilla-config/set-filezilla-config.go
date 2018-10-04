@@ -1,4 +1,4 @@
-package main
+package main // import "set-filezilla-config"
 
 import (
 	"fmt"
