@@ -1,3 +1,5 @@
 bin
 pkg
 vendor
+edit-xml.exe
+set-filezilla-config.exe
