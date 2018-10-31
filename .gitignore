@@ -3,3 +3,4 @@ pkg
 vendor
 edit-xml.exe
 set-filezilla-config.exe
+set-tomcat-conf.exe
